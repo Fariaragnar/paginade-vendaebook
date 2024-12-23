@@ -105,3 +105,9 @@ li {
     border: solid 1px #c1cd;
 
 }
+
+.tec:hover {
+    background-color: transparent;
+    color:rgb(0, 255, 106);
+    transform: scale(1.2);
+}
