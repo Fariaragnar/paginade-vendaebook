@@ -111,3 +111,7 @@ li {
     color:rgb(0, 255, 106);
     transform: scale(1.2);
 }
+
+a {
+    text-decoration: none;
+}
